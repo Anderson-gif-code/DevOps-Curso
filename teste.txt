@@ -1,3 +1,5 @@
 Linha de teste
 
+Linha do meio
+
 Nova linha
